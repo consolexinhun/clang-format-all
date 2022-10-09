@@ -4,7 +4,7 @@
 bash clang-format-all path-to-src
 ```
 
-for examplex
+for example
 
 ```
 bash clang-format-all src/
